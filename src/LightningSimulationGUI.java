@@ -18,7 +18,7 @@ public class LightningSimulationGUI {
 
     public LightningSimulationGUI() {
         nodeBalances = new HashMap<>();
-
+        //update
         tableModel = new DefaultTableModel();
         tableModel.addColumn("Node");
         tableModel.addColumn("Balance (satoshis)");
